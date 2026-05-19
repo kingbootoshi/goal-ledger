@@ -1,7 +1,7 @@
 # Goal Ledger
 
 <p align="center">
-  <img src="plugins/goal-ledger/skills/goal/assets/hero.jpeg" alt="Boo King lifting a trophy in front of a scoreboard of completed objectives" width="720">
+  <img src="plugins/goal-ledger/skills/goal/assets/hero.jpeg" alt="Vibe Bot crossing the finish line with arms raised, scoreboard of completed objectives behind him" width="720">
 </p>
 
 A single-file agent goal ledger that pairs with `/goal` mode in **Claude Code** and **OpenAI Codex CLI**.
