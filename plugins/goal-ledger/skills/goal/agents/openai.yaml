@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Ledger"
+  short_description: "Track goal state in one readable file"
+  default_prompt: "Use $goal to create a durable ledger for this /goal run, couple it to the native runtime goal when available, and keep implementation-notes.html as the canonical readable state for resume, decisions, validation, blockers, and next-goal links."

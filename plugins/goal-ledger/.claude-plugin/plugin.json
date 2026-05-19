@@ -1,0 +1,8 @@
+{
+  "name": "goal-ledger",
+  "description": "Single-file agent goal ledger for Claude Code and Codex CLI. Pairs with /goal mode.",
+  "author": {
+    "name": "Bootoshi",
+    "url": "https://github.com/kingbootoshi"
+  }
+}

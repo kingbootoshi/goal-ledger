@@ -1,0 +1,21 @@
+{
+  "name": "goal-ledger-marketplace",
+  "owner": {
+    "name": "Bootoshi",
+    "url": "https://github.com/kingbootoshi"
+  },
+  "metadata": {
+    "description": "A single-file agent goal ledger that pairs with /goal mode in Claude Code and Codex CLI",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "goal-ledger",
+      "source": "./plugins/goal-ledger",
+      "description": "Creates and maintains an agent-owned goal ledger (GOAL.md + implementation-notes.html) so long-running coding work survives compaction, hand-offs, and chained goals. Couples to native /goal mode when available.",
+      "version": "1.0.0",
+      "category": "developer tools",
+      "keywords": ["goal", "ledger", "compaction", "handoff", "long-running", "progress", "agent-skills"]
+    }
+  ]
+}
